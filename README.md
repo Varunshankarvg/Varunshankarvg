@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there 👋, I'm Varun Shankar G</h1>
 
 <p align="center">
@@ -29,7 +30,7 @@ Frontend      : HTML, CSS, JavaScript, Tailwind CSS
 Backend       : Node.js, Express.js, MongoDB, Firebase
 Tools & APIs  : Git, Docker, MongoDB Compass, Figma, Adobe, Dialogflow, Ollama
 Other         : Render, Netlify, Blynk (IoT), Medusa
-
+```
 
 ---
 
@@ -58,6 +59,4 @@ Other         : Render, Netlify, Blynk (IoT), Medusa
 
 ---
 
-
 ⭐ *Thanks for visiting my profile! Let’s connect and collaborate on awesome projects.*
-
