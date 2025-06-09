@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠 Technical Skills
+### ⚡ My Tech Arsenal
 
 ```yaml
 Languages     : C, C++, Python, Java, JavaScript
@@ -29,3 +29,17 @@ Frontend      : HTML, CSS, JavaScript, Tailwind CSS
 Backend       : Node.js, Express.js, MongoDB, Firebase
 Tools & APIs  : Git, Docker, MongoDB Compass, Figma, Adobe, Dialogflow, Ollama
 Other         : Render, Netlify, Blynk (IoT), Medusa
+
+
+📊 GitHub Stats & Contribution Streak
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Varunshankarvg&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunshankarvg&theme=radical" width="47%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunshankarvg&layout=compact&theme=radical" width="45%" /> </p>
+🔄 Fun with GitHub Activity
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varunshankarvg&theme=radical" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Varunshankarvg&theme=matrix&column=7&no-bg=true&no-frame=true" /> </p>
+📫 Let's Connect
+📧 Email: varunshankarvg@gmail.com
+
+💼 LinkedIn: linkedin.com/in/varunshankarg
+
+🌐 GitHub: github.com/Varunshankarvg
+
+⭐ Thanks for stopping by! Let’s connect and collaborate on awesome projects.
